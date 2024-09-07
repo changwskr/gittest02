@@ -3,4 +3,4 @@
 03-fetch
 05
 04
-07-local add
+07-local add, 06 add
